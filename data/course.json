@@ -1,0 +1,34 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering",
+      "Propulsion Systems"
+    ],
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Fluid Mechanics"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "81684369-d23b-4797-52f2-ed14eaad7afa",
+      "419a16c1-a19f-65b4-17ad-fa6b98ad3c40"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Internal Flows in Turbomachines",
+  "course_description": "In 16.540 we address fluid dynamic phenomena of interest in internal flow situations. The emphasis tends to be on problems that arise in air breathing propulsion, but the application of the concepts covered is more general, and the course is wider in scope, than turbomachines (in spite of the title). Stated more directly, the focus is on the fluid mechanic principles that determine the behavior of a broad class of industrial devices. The material can therefore be characterized, only partly tongue in cheek, as \"industrial strength fluid mechanics done in a rigorous manner\".\n",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "16.540",
+  "learning_resource_types": [
+    "Problem Sets",
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
